@@ -1,0 +1,121 @@
+product_id,product_name,category,category_code,cost_price_usd,selling_price_usd,gross_margin_pct,is_perishable
+GRO-0001,Basmati Rice 5kg,Groceries & Fresh Food,GRO,4.5,7.2,37.5,True
+GRO-0002,Whole Milk 1L,Groceries & Fresh Food,GRO,0.9,1.4,35.7,True
+GRO-0003,Chicken Breast 1kg,Groceries & Fresh Food,GRO,5.2,8.1,35.8,True
+GRO-0004,Olive Oil 750ml,Groceries & Fresh Food,GRO,6.8,10.5,35.2,True
+GRO-0005,Cheddar Cheese 400g,Groceries & Fresh Food,GRO,3.2,5.1,37.3,True
+GRO-0006,Eggs 12pk,Groceries & Fresh Food,GRO,2.1,3.3,36.4,True
+GRO-0007,Wheat Flour 2kg,Groceries & Fresh Food,GRO,1.8,2.9,37.9,True
+GRO-0008,Tomato Paste 400g,Groceries & Fresh Food,GRO,0.7,1.2,41.7,True
+GRO-0009,Mineral Water 6pk,Groceries & Fresh Food,GRO,1.5,2.4,37.5,True
+GRO-0010,Orange Juice 1L,Groceries & Fresh Food,GRO,1.9,3.1,38.7,True
+GRO-0011,Frozen Peas 500g,Groceries & Fresh Food,GRO,1.2,2.0,40.0,True
+GRO-0012,Yogurt Plain 500g,Groceries & Fresh Food,GRO,1.1,1.8,38.9,True
+GRO-0013,Bread Loaf 600g,Groceries & Fresh Food,GRO,1.3,2.1,38.1,True
+GRO-0014,Tuna Can 185g,Groceries & Fresh Food,GRO,1.4,2.3,39.1,True
+GRO-0015,Butter 250g,Groceries & Fresh Food,GRO,2.2,3.5,37.1,True
+GRO-0016,Coffee Beans 500g,Groceries & Fresh Food,GRO,7.5,12.0,37.5,True
+GRO-0017,Green Tea 25pk,Groceries & Fresh Food,GRO,2.8,4.5,37.8,True
+GRO-0018,Sugar 1kg,Groceries & Fresh Food,GRO,1.0,1.6,37.5,True
+GRO-0019,Pasta 500g,Groceries & Fresh Food,GRO,1.2,1.9,36.8,True
+GRO-0020,Cooking Oil 2L,Groceries & Fresh Food,GRO,3.1,5.0,38.0,True
+ELE-0001,Smart TV 55inch 4K,Electronics & Appliances,ELE,380.0,580.0,34.5,False
+ELE-0002,Laptop 15inch Core i5,Electronics & Appliances,ELE,520.0,780.0,33.3,False
+ELE-0003,Smartphone Android 128GB,Electronics & Appliances,ELE,240.0,380.0,36.8,False
+ELE-0004,Wireless Earbuds Pro,Electronics & Appliances,ELE,45.0,85.0,47.1,False
+ELE-0005,Microwave Oven 25L,Electronics & Appliances,ELE,95.0,155.0,38.7,False
+ELE-0006,Air Fryer 5L,Electronics & Appliances,ELE,65.0,110.0,40.9,False
+ELE-0007,Refrigerator 350L,Electronics & Appliances,ELE,420.0,650.0,35.4,False
+ELE-0008,Washing Machine 7kg,Electronics & Appliances,ELE,310.0,490.0,36.7,False
+ELE-0009,Blender 1000W,Electronics & Appliances,ELE,38.0,65.0,41.5,False
+ELE-0010,Electric Kettle 1.7L,Electronics & Appliances,ELE,18.0,32.0,43.8,False
+ELE-0011,Rice Cooker 1.8L,Electronics & Appliances,ELE,28.0,48.0,41.7,False
+ELE-0012,Stand Fan 16inch,Electronics & Appliances,ELE,35.0,58.0,39.7,False
+ELE-0013,Vacuum Cleaner 2000W,Electronics & Appliances,ELE,85.0,145.0,41.4,False
+ELE-0014,Toaster 4 Slice,Electronics & Appliances,ELE,22.0,38.0,42.1,False
+ELE-0015,Coffee Machine Auto,Electronics & Appliances,ELE,145.0,240.0,39.6,False
+ELE-0016,Gaming Console Bundle,Electronics & Appliances,ELE,380.0,520.0,26.9,False
+ELE-0017,Tablet 10inch WiFi,Electronics & Appliances,ELE,175.0,280.0,37.5,False
+ELE-0018,Smart Watch Fitness,Electronics & Appliances,ELE,95.0,165.0,42.4,False
+ELE-0019,Portable Speaker BT,Electronics & Appliances,ELE,42.0,72.0,41.7,False
+ELE-0020,Security Camera WiFi,Electronics & Appliances,ELE,55.0,95.0,42.1,False
+FAP-0001,Men Slim Fit Jeans,Fashion & Apparel,FAP,18.0,45.0,60.0,False
+FAP-0002,Women Summer Dress,Fashion & Apparel,FAP,14.0,38.0,63.2,False
+FAP-0003,Kids School Shoes,Fashion & Apparel,FAP,12.0,32.0,62.5,False
+FAP-0004,Men Casual T-Shirt,Fashion & Apparel,FAP,6.0,18.0,66.7,False
+FAP-0005,Women Hijab Cotton,Fashion & Apparel,FAP,4.0,12.0,66.7,False
+FAP-0006,Men Formal Shirt,Fashion & Apparel,FAP,15.0,42.0,64.3,False
+FAP-0007,Women Leggings,Fashion & Apparel,FAP,8.0,22.0,63.6,False
+FAP-0008,Kids Pyjama Set,Fashion & Apparel,FAP,7.0,19.0,63.2,False
+FAP-0009,Men Winter Jacket,Fashion & Apparel,FAP,35.0,95.0,63.2,False
+FAP-0010,Women Handbag Faux,Fashion & Apparel,FAP,22.0,58.0,62.1,False
+FAP-0011,Men Sneakers,Fashion & Apparel,FAP,28.0,72.0,61.1,False
+FAP-0012,Women Sandals,Fashion & Apparel,FAP,15.0,42.0,64.3,False
+FAP-0013,Kids Hoodie,Fashion & Apparel,FAP,10.0,28.0,64.3,False
+FAP-0014,Men Belt Leather,Fashion & Apparel,FAP,9.0,25.0,64.0,False
+FAP-0015,Women Scarf Silk,Fashion & Apparel,FAP,11.0,30.0,63.3,False
+FAP-0016,Men Shorts Cargo,Fashion & Apparel,FAP,12.0,32.0,62.5,False
+FAP-0017,Women Blouse Formal,Fashion & Apparel,FAP,13.0,36.0,63.9,False
+FAP-0018,Kids Dress Party,Fashion & Apparel,FAP,14.0,38.0,63.2,False
+FAP-0019,Men Socks 5pk,Fashion & Apparel,FAP,4.0,11.0,63.6,False
+FAP-0020,Women Sports Bra,Fashion & Apparel,FAP,9.0,24.0,62.5,False
+HOM-0001,Bed Sheet Set King,Home & Living,HOM,22.0,55.0,60.0,False
+HOM-0002,Towel Set 4pc Bath,Home & Living,HOM,14.0,35.0,60.0,False
+HOM-0003,Pillow Memory Foam,Home & Living,HOM,18.0,45.0,60.0,False
+HOM-0004,Curtain Panel 2pc,Home & Living,HOM,16.0,42.0,61.9,False
+HOM-0005,Non-Stick Pan 28cm,Home & Living,HOM,12.0,32.0,62.5,False
+HOM-0006,Knife Set 5pc Steel,Home & Living,HOM,18.0,48.0,62.5,False
+HOM-0007,Storage Box 60L,Home & Living,HOM,9.0,24.0,62.5,False
+HOM-0008,Laundry Basket Rattan,Home & Living,HOM,11.0,28.0,60.7,False
+HOM-0009,Bathroom Mat Set,Home & Living,HOM,8.0,21.0,61.9,False
+HOM-0010,Wall Clock Wooden,Home & Living,HOM,14.0,36.0,61.1,False
+HOM-0011,Photo Frame Set 3pc,Home & Living,HOM,7.0,19.0,63.2,False
+HOM-0012,Candle Set Scented,Home & Living,HOM,8.0,22.0,63.6,False
+HOM-0013,Mop Spin Bucket Set,Home & Living,HOM,15.0,38.0,60.5,False
+HOM-0014,Dish Drying Rack,Home & Living,HOM,9.0,24.0,62.5,False
+HOM-0015,Cutting Board Set,Home & Living,HOM,7.0,18.0,61.1,False
+HOM-0016,Dinner Set 18pc,Home & Living,HOM,28.0,72.0,61.1,False
+HOM-0017,Glasses Set 6pc,Home & Living,HOM,12.0,30.0,60.0,False
+HOM-0018,Bedside Lamp LED,Home & Living,HOM,19.0,48.0,60.4,False
+HOM-0019,Rug 160x230cm,Home & Living,HOM,45.0,115.0,60.9,False
+HOM-0020,Vacuum Storage Bags,Home & Living,HOM,6.0,16.0,62.5,False
+HNB-0001,Shampoo Argan 400ml,Health & Beauty,HNB,5.5,13.0,57.7,False
+HNB-0002,Conditioner Repair 400ml,Health & Beauty,HNB,5.0,12.0,58.3,False
+HNB-0003,Face Wash Foam 150ml,Health & Beauty,HNB,4.2,10.0,58.0,False
+HNB-0004,Moisturizer SPF50 50ml,Health & Beauty,HNB,8.5,21.0,59.5,False
+HNB-0005,Lipstick Matte,Health & Beauty,HNB,3.8,10.0,62.0,False
+HNB-0006,Foundation Liquid 30ml,Health & Beauty,HNB,7.5,19.0,60.5,False
+HNB-0007,Perfume Men 100ml,Health & Beauty,HNB,22.0,58.0,62.1,False
+HNB-0008,Perfume Women 100ml,Health & Beauty,HNB,24.0,62.0,61.3,False
+HNB-0009,Body Lotion 400ml,Health & Beauty,HNB,5.2,13.0,60.0,False
+HNB-0010,Toothpaste 3pk,Health & Beauty,HNB,3.5,8.5,58.8,False
+HNB-0011,Electric Toothbrush,Health & Beauty,HNB,28.0,68.0,58.8,False
+HNB-0012,Vitamin C 1000mg 60tab,Health & Beauty,HNB,7.8,19.0,58.9,False
+HNB-0013,Multivitamin 90tab,Health & Beauty,HNB,9.5,24.0,60.4,False
+HNB-0014,Protein Powder 1kg,Health & Beauty,HNB,28.0,68.0,58.8,False
+HNB-0015,Sunscreen SPF80 100ml,Health & Beauty,HNB,6.8,17.0,60.0,False
+HNB-0016,Hair Color Kit,Health & Beauty,HNB,5.5,14.0,60.7,False
+HNB-0017,Nail Polish Set 12pc,Health & Beauty,HNB,6.2,16.0,61.3,False
+HNB-0018,Razor 5-Blade 4pk,Health & Beauty,HNB,8.5,21.0,59.5,False
+HNB-0019,Deodorant Roll-On 2pk,Health & Beauty,HNB,4.2,10.0,58.0,False
+HNB-0020,Hand Cream 75ml,Health & Beauty,HNB,3.1,8.0,61.3,False
+SPL-0001,Football Size 5 Pro,Sports & Leisure,SPL,18.0,45.0,60.0,False
+SPL-0002,Yoga Mat 6mm TPE,Sports & Leisure,SPL,14.0,36.0,61.1,False
+SPL-0003,Resistance Bands Set,Sports & Leisure,SPL,8.0,22.0,63.6,False
+SPL-0004,Running Shoes Men,Sports & Leisure,SPL,38.0,95.0,60.0,False
+SPL-0005,Running Shoes Women,Sports & Leisure,SPL,36.0,90.0,60.0,False
+SPL-0006,Cycling Helmet Adult,Sports & Leisure,SPL,28.0,68.0,58.8,False
+SPL-0007,Dumbbells 5kg Pair,Sports & Leisure,SPL,22.0,55.0,60.0,False
+SPL-0008,Skipping Rope Speed,Sports & Leisure,SPL,6.0,16.0,62.5,False
+SPL-0009,Water Bottle 750ml BPA,Sports & Leisure,SPL,5.0,14.0,64.3,False
+SPL-0010,Sports Backpack 30L,Sports & Leisure,SPL,22.0,56.0,60.7,False
+SPL-0011,Tennis Racket Carbon,Sports & Leisure,SPL,32.0,82.0,61.0,False
+SPL-0012,Basketball Indoor,Sports & Leisure,SPL,22.0,55.0,60.0,False
+SPL-0013,Swim Goggles UV,Sports & Leisure,SPL,8.0,21.0,61.9,False
+SPL-0014,Camping Tent 3person,Sports & Leisure,SPL,65.0,165.0,60.6,False
+SPL-0015,Fishing Rod Set,Sports & Leisure,SPL,28.0,72.0,61.1,False
+SPL-0016,Badminton Set 4pc,Sports & Leisure,SPL,12.0,30.0,60.0,False
+SPL-0017,Gym Gloves Lifting,Sports & Leisure,SPL,7.0,19.0,63.2,False
+SPL-0018,Foam Roller 60cm,Sports & Leisure,SPL,9.0,24.0,62.5,False
+SPL-0019,Knee Support Brace,Sports & Leisure,SPL,8.0,21.0,61.9,False
+SPL-0020,Protein Shaker 700ml,Sports & Leisure,SPL,6.0,16.0,62.5,False

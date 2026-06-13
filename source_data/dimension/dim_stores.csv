@@ -1,0 +1,117 @@
+store_id,store_name,region_code,country,city,currency,usd_rate,store_format,market_maturity,opening_year,total_floor_sqm
+IR-UAE-001,IR Retail Abu Dhabi Supermarket 1,UAE,United Arab Emirates,Abu Dhabi,AED,3.67,Supermarket,Mature,2018,1256
+IR-UAE-002,IR Retail Sharjah Express 2,UAE,United Arab Emirates,Sharjah,AED,3.67,Express,Mature,2008,481
+IR-UAE-003,IR Retail Ajman Hypermarket 3,UAE,United Arab Emirates,Ajman,AED,3.67,Hypermarket,Mature,2011,5657
+IR-UAE-004,IR Retail Al Ain Supermarket 4,UAE,United Arab Emirates,Al Ain,AED,3.67,Supermarket,Mature,2010,3816
+IR-UAE-005,IR Retail Ras Al Khaimah Express 5,UAE,United Arab Emirates,Ras Al Khaimah,AED,3.67,Express,Mature,2009,758
+IR-UAE-006,IR Retail Dubai Hypermarket 6,UAE,United Arab Emirates,Dubai,AED,3.67,Hypermarket,Mature,2009,11674
+IR-UAE-007,IR Retail Abu Dhabi Supermarket 7,UAE,United Arab Emirates,Abu Dhabi,AED,3.67,Supermarket,Mature,2014,930
+IR-UAE-008,IR Retail Sharjah Express 8,UAE,United Arab Emirates,Sharjah,AED,3.67,Express,Mature,2008,295
+IR-UAE-009,IR Retail Ajman Hypermarket 9,UAE,United Arab Emirates,Ajman,AED,3.67,Hypermarket,Mature,2011,5811
+IR-UAE-010,IR Retail Al Ain Supermarket 10,UAE,United Arab Emirates,Al Ain,AED,3.67,Supermarket,Mature,2016,3265
+IR-UAE-011,IR Retail Ras Al Khaimah Express 11,UAE,United Arab Emirates,Ras Al Khaimah,AED,3.67,Express,Mature,2008,774
+IR-UAE-012,IR Retail Dubai Hypermarket 12,UAE,United Arab Emirates,Dubai,AED,3.67,Hypermarket,Mature,2011,13731
+IR-UAE-013,IR Retail Abu Dhabi Supermarket 13,UAE,United Arab Emirates,Abu Dhabi,AED,3.67,Supermarket,Mature,2018,3672
+IR-UAE-014,IR Retail Sharjah Express 14,UAE,United Arab Emirates,Sharjah,AED,3.67,Express,Mature,2016,629
+IR-UAE-015,IR Retail Ajman Hypermarket 15,UAE,United Arab Emirates,Ajman,AED,3.67,Hypermarket,Mature,2011,9359
+IR-UAE-016,IR Retail Al Ain Supermarket 16,UAE,United Arab Emirates,Al Ain,AED,3.67,Supermarket,Mature,2017,1939
+IR-UAE-017,IR Retail Ras Al Khaimah Express 17,UAE,United Arab Emirates,Ras Al Khaimah,AED,3.67,Express,Mature,2020,206
+IR-UAE-018,IR Retail Dubai Hypermarket 18,UAE,United Arab Emirates,Dubai,AED,3.67,Hypermarket,Mature,2020,15202
+IR-FR-001,IR Retail Lyon Supermarket 1,FR,France,Lyon,EUR,0.92,Supermarket,Mature,2010,3659
+IR-FR-002,IR Retail Marseille Express 2,FR,France,Marseille,EUR,0.92,Express,Mature,2014,548
+IR-FR-003,IR Retail Toulouse Wholesale 3,FR,France,Toulouse,EUR,0.92,Wholesale,Mature,2012,5547
+IR-FR-004,IR Retail Nice Hypermarket 4,FR,France,Nice,EUR,0.92,Hypermarket,Mature,2011,17682
+IR-FR-005,IR Retail Nantes Supermarket 5,FR,France,Nantes,EUR,0.92,Supermarket,Mature,2020,2178
+IR-FR-006,IR Retail Strasbourg Express 6,FR,France,Strasbourg,EUR,0.92,Express,Mature,2009,294
+IR-FR-007,IR Retail Bordeaux Wholesale 7,FR,France,Bordeaux,EUR,0.92,Wholesale,Mature,2014,4584
+IR-FR-008,IR Retail Lille Hypermarket 8,FR,France,Lille,EUR,0.92,Hypermarket,Mature,2013,15885
+IR-FR-009,IR Retail Rennes Supermarket 9,FR,France,Rennes,EUR,0.92,Supermarket,Mature,2013,3272
+IR-FR-010,IR Retail Paris Express 10,FR,France,Paris,EUR,0.92,Express,Mature,2012,244
+IR-FR-011,IR Retail Lyon Wholesale 11,FR,France,Lyon,EUR,0.92,Wholesale,Mature,2019,10527
+IR-FR-012,IR Retail Marseille Hypermarket 12,FR,France,Marseille,EUR,0.92,Hypermarket,Mature,2016,4045
+IR-FR-013,IR Retail Toulouse Supermarket 13,FR,France,Toulouse,EUR,0.92,Supermarket,Mature,2014,1122
+IR-FR-014,IR Retail Nice Express 14,FR,France,Nice,EUR,0.92,Express,Mature,2016,500
+IR-FR-015,IR Retail Nantes Wholesale 15,FR,France,Nantes,EUR,0.92,Wholesale,Mature,2018,8925
+IR-FR-016,IR Retail Strasbourg Hypermarket 16,FR,France,Strasbourg,EUR,0.92,Hypermarket,Mature,2017,5150
+IR-FR-017,IR Retail Bordeaux Supermarket 17,FR,France,Bordeaux,EUR,0.92,Supermarket,Mature,2019,1084
+IR-FR-018,IR Retail Lille Express 18,FR,France,Lille,EUR,0.92,Express,Mature,2008,433
+IR-FR-019,IR Retail Rennes Wholesale 19,FR,France,Rennes,EUR,0.92,Wholesale,Mature,2020,7741
+IR-FR-020,IR Retail Paris Hypermarket 20,FR,France,Paris,EUR,0.92,Hypermarket,Mature,2009,16013
+IR-FR-021,IR Retail Lyon Supermarket 21,FR,France,Lyon,EUR,0.92,Supermarket,Mature,2011,1213
+IR-FR-022,IR Retail Marseille Express 22,FR,France,Marseille,EUR,0.92,Express,Mature,2014,484
+IR-FR-023,IR Retail Toulouse Wholesale 23,FR,France,Toulouse,EUR,0.92,Wholesale,Mature,2015,8977
+IR-FR-024,IR Retail Nice Hypermarket 24,FR,France,Nice,EUR,0.92,Hypermarket,Mature,2010,8065
+IR-FR-025,IR Retail Nantes Supermarket 25,FR,France,Nantes,EUR,0.92,Supermarket,Mature,2013,1658
+IR-FR-026,IR Retail Strasbourg Express 26,FR,France,Strasbourg,EUR,0.92,Express,Mature,2018,473
+IR-FR-027,IR Retail Bordeaux Wholesale 27,FR,France,Bordeaux,EUR,0.92,Wholesale,Mature,2019,4169
+IR-FR-028,IR Retail Lille Hypermarket 28,FR,France,Lille,EUR,0.92,Hypermarket,Mature,2017,12403
+IR-FR-029,IR Retail Rennes Supermarket 29,FR,France,Rennes,EUR,0.92,Supermarket,Mature,2010,2987
+IR-FR-030,IR Retail Paris Express 30,FR,France,Paris,EUR,0.92,Express,Mature,2019,450
+IR-FR-031,IR Retail Lyon Wholesale 31,FR,France,Lyon,EUR,0.92,Wholesale,Mature,2010,10573
+IR-FR-032,IR Retail Marseille Hypermarket 32,FR,France,Marseille,EUR,0.92,Hypermarket,Mature,2014,6422
+IR-FR-033,IR Retail Toulouse Supermarket 33,FR,France,Toulouse,EUR,0.92,Supermarket,Mature,2018,3618
+IR-FR-034,IR Retail Nice Express 34,FR,France,Nice,EUR,0.92,Express,Mature,2016,424
+IR-EG-001,IR Retail Alexandria Supermarket 1,EG,Egypt,Alexandria,EGP,30.9,Supermarket,Growing,2018,2128
+IR-EG-002,IR Retail Giza Express 2,EG,Egypt,Giza,EGP,30.9,Express,Growing,2020,257
+IR-EG-003,IR Retail Shubra El Kheima Hypermarket 3,EG,Egypt,Shubra El Kheima,EGP,30.9,Hypermarket,Growing,2011,15464
+IR-EG-004,IR Retail Port Said Supermarket 4,EG,Egypt,Port Said,EGP,30.9,Supermarket,Growing,2008,2092
+IR-EG-005,IR Retail Suez Express 5,EG,Egypt,Suez,EGP,30.9,Express,Growing,2014,474
+IR-EG-006,IR Retail Luxor Hypermarket 6,EG,Egypt,Luxor,EGP,30.9,Hypermarket,Growing,2009,5456
+IR-EG-007,IR Retail Mansoura Supermarket 7,EG,Egypt,Mansoura,EGP,30.9,Supermarket,Growing,2017,3740
+IR-EG-008,IR Retail Cairo Express 8,EG,Egypt,Cairo,EGP,30.9,Express,Growing,2013,417
+IR-EG-009,IR Retail Alexandria Hypermarket 9,EG,Egypt,Alexandria,EGP,30.9,Hypermarket,Growing,2018,10179
+IR-EG-010,IR Retail Giza Supermarket 10,EG,Egypt,Giza,EGP,30.9,Supermarket,Growing,2014,3433
+IR-EG-011,IR Retail Shubra El Kheima Express 11,EG,Egypt,Shubra El Kheima,EGP,30.9,Express,Growing,2015,346
+IR-EG-012,IR Retail Port Said Hypermarket 12,EG,Egypt,Port Said,EGP,30.9,Hypermarket,Growing,2012,4287
+IR-EG-013,IR Retail Suez Supermarket 13,EG,Egypt,Suez,EGP,30.9,Supermarket,Growing,2011,3851
+IR-EG-014,IR Retail Luxor Express 14,EG,Egypt,Luxor,EGP,30.9,Express,Growing,2016,751
+IR-EG-015,IR Retail Mansoura Hypermarket 15,EG,Egypt,Mansoura,EGP,30.9,Hypermarket,Growing,2012,14239
+IR-EG-016,IR Retail Cairo Supermarket 16,EG,Egypt,Cairo,EGP,30.9,Supermarket,Growing,2017,2554
+IR-EG-017,IR Retail Alexandria Express 17,EG,Egypt,Alexandria,EGP,30.9,Express,Growing,2017,608
+IR-EG-018,IR Retail Giza Hypermarket 18,EG,Egypt,Giza,EGP,30.9,Hypermarket,Growing,2013,5593
+IR-EG-019,IR Retail Shubra El Kheima Supermarket 19,EG,Egypt,Shubra El Kheima,EGP,30.9,Supermarket,Growing,2010,2887
+IR-EG-020,IR Retail Port Said Express 20,EG,Egypt,Port Said,EGP,30.9,Express,Growing,2015,293
+IR-EG-021,IR Retail Suez Hypermarket 21,EG,Egypt,Suez,EGP,30.9,Hypermarket,Growing,2020,2771
+IR-EG-022,IR Retail Luxor Supermarket 22,EG,Egypt,Luxor,EGP,30.9,Supermarket,Growing,2009,1426
+IR-PK-001,IR Retail Lahore Supermarket 1,PK,Pakistan,Lahore,PKR,278.0,Supermarket,Emerging,2018,1455
+IR-PK-002,IR Retail Islamabad Hypermarket 2,PK,Pakistan,Islamabad,PKR,278.0,Hypermarket,Emerging,2020,13149
+IR-PK-003,IR Retail Rawalpindi Supermarket 3,PK,Pakistan,Rawalpindi,PKR,278.0,Supermarket,Emerging,2014,3242
+IR-PK-004,IR Retail Faisalabad Hypermarket 4,PK,Pakistan,Faisalabad,PKR,278.0,Hypermarket,Emerging,2009,8304
+IR-PK-005,IR Retail Peshawar Supermarket 5,PK,Pakistan,Peshawar,PKR,278.0,Supermarket,Emerging,2014,3240
+IR-PK-006,IR Retail Quetta Hypermarket 6,PK,Pakistan,Quetta,PKR,278.0,Hypermarket,Emerging,2015,10669
+IR-PK-007,IR Retail Karachi Supermarket 7,PK,Pakistan,Karachi,PKR,278.0,Supermarket,Emerging,2012,3066
+IR-PK-008,IR Retail Lahore Hypermarket 8,PK,Pakistan,Lahore,PKR,278.0,Hypermarket,Emerging,2008,13145
+IR-PK-009,IR Retail Islamabad Supermarket 9,PK,Pakistan,Islamabad,PKR,278.0,Supermarket,Emerging,2019,1269
+IR-PK-010,IR Retail Rawalpindi Hypermarket 10,PK,Pakistan,Rawalpindi,PKR,278.0,Hypermarket,Emerging,2018,16496
+IR-PK-011,IR Retail Faisalabad Supermarket 11,PK,Pakistan,Faisalabad,PKR,278.0,Supermarket,Emerging,2016,3875
+IR-PK-012,IR Retail Peshawar Hypermarket 12,PK,Pakistan,Peshawar,PKR,278.0,Hypermarket,Emerging,2012,14592
+IR-PK-013,IR Retail Quetta Supermarket 13,PK,Pakistan,Quetta,PKR,278.0,Supermarket,Emerging,2018,2193
+IR-PK-014,IR Retail Karachi Hypermarket 14,PK,Pakistan,Karachi,PKR,278.0,Hypermarket,Emerging,2009,6808
+IR-PK-015,IR Retail Lahore Supermarket 15,PK,Pakistan,Lahore,PKR,278.0,Supermarket,Emerging,2014,1447
+IR-BR-001,IR Retail Rio de Janeiro Supermarket 1,BR,Brazil,Rio de Janeiro,BRL,4.97,Supermarket,Volatile,2015,813
+IR-BR-002,IR Retail Brasília Express 2,BR,Brazil,Brasília,BRL,4.97,Express,Volatile,2019,469
+IR-BR-003,IR Retail Salvador Wholesale 3,BR,Brazil,Salvador,BRL,4.97,Wholesale,Volatile,2016,5927
+IR-BR-004,IR Retail Fortaleza Hypermarket 4,BR,Brazil,Fortaleza,BRL,4.97,Hypermarket,Volatile,2016,16952
+IR-BR-005,IR Retail Belo Horizonte Supermarket 5,BR,Brazil,Belo Horizonte,BRL,4.97,Supermarket,Volatile,2009,3361
+IR-BR-006,IR Retail Manaus Express 6,BR,Brazil,Manaus,BRL,4.97,Express,Volatile,2012,719
+IR-BR-007,IR Retail Curitiba Wholesale 7,BR,Brazil,Curitiba,BRL,4.97,Wholesale,Volatile,2017,6258
+IR-BR-008,IR Retail Recife Hypermarket 8,BR,Brazil,Recife,BRL,4.97,Hypermarket,Volatile,2010,8126
+IR-BR-009,IR Retail São Paulo Supermarket 9,BR,Brazil,São Paulo,BRL,4.97,Supermarket,Volatile,2020,1461
+IR-BR-010,IR Retail Rio de Janeiro Express 10,BR,Brazil,Rio de Janeiro,BRL,4.97,Express,Volatile,2016,743
+IR-BR-011,IR Retail Brasília Wholesale 11,BR,Brazil,Brasília,BRL,4.97,Wholesale,Volatile,2008,8310
+IR-BR-012,IR Retail Salvador Hypermarket 12,BR,Brazil,Salvador,BRL,4.97,Hypermarket,Volatile,2015,2319
+IR-BR-013,IR Retail Fortaleza Supermarket 13,BR,Brazil,Fortaleza,BRL,4.97,Supermarket,Volatile,2009,2286
+IR-BR-014,IR Retail Belo Horizonte Express 14,BR,Brazil,Belo Horizonte,BRL,4.97,Express,Volatile,2020,514
+IR-BR-015,IR Retail Manaus Wholesale 15,BR,Brazil,Manaus,BRL,4.97,Wholesale,Volatile,2011,3949
+IR-BR-016,IR Retail Curitiba Hypermarket 16,BR,Brazil,Curitiba,BRL,4.97,Hypermarket,Volatile,2011,16385
+IR-BR-017,IR Retail Recife Supermarket 17,BR,Brazil,Recife,BRL,4.97,Supermarket,Volatile,2017,1122
+IR-BR-018,IR Retail São Paulo Express 18,BR,Brazil,São Paulo,BRL,4.97,Express,Volatile,2009,697
+IR-BR-019,IR Retail Rio de Janeiro Wholesale 19,BR,Brazil,Rio de Janeiro,BRL,4.97,Wholesale,Volatile,2009,11727
+IR-BR-020,IR Retail Brasília Hypermarket 20,BR,Brazil,Brasília,BRL,4.97,Hypermarket,Volatile,2020,4060
+IR-BR-021,IR Retail Salvador Supermarket 21,BR,Brazil,Salvador,BRL,4.97,Supermarket,Volatile,2010,3502
+IR-BR-022,IR Retail Fortaleza Express 22,BR,Brazil,Fortaleza,BRL,4.97,Express,Volatile,2015,762
+IR-BR-023,IR Retail Belo Horizonte Wholesale 23,BR,Brazil,Belo Horizonte,BRL,4.97,Wholesale,Volatile,2010,7342
+IR-BR-024,IR Retail Manaus Hypermarket 24,BR,Brazil,Manaus,BRL,4.97,Hypermarket,Volatile,2016,16293
+IR-BR-025,IR Retail Curitiba Supermarket 25,BR,Brazil,Curitiba,BRL,4.97,Supermarket,Volatile,2017,2533
+IR-BR-026,IR Retail Recife Express 26,BR,Brazil,Recife,BRL,4.97,Express,Volatile,2011,752
+IR-BR-027,IR Retail São Paulo Wholesale 27,BR,Brazil,São Paulo,BRL,4.97,Wholesale,Volatile,2020,6295
